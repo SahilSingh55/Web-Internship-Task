@@ -1,0 +1,65 @@
+.homepage {
+    width: 1200px;
+}
+
+.homepage .card {
+    display: flex;
+    position: left;
+    margin-left: 45px;
+}
+
+.homepage .img {
+    background-color: black;
+    height: 240px; 
+}
+
+p.card-text {
+    text-align: center;
+}
+
+.homepage .card #input {
+    display: flex;
+}
+
+.mb-3 {
+    margin-left: 20px;
+    height: 40px;
+}
+
+.mb-4 {
+    margin-left: 200px;
+    height: 40px;
+}
+
+.search {
+    height: 40px;
+}
+
+.avatar {
+    margin-left: 531px;
+    margin-top: -50px;
+}
+
+.button {
+    display: flex;
+    margin-left: 985px;
+    margin-top: -30px;
+}
+
+#button1 {
+    height: 35px;
+    margin-left: -64px;
+}
+
+#button2 {
+    margin-left: 15px;
+    height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#goback {
+    margin-left: 45px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
