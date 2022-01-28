@@ -1,7 +1,7 @@
 import React from "react";
-import "../App.css";
+import "./Sidebar.css";
 import { SidebarData } from './SidebarData';
-import Homepage from './Homepage';
+import Homepage from '../Homepage/Homepage';
 
 const Sidebar = () => {
     return (
@@ -22,7 +22,6 @@ const Sidebar = () => {
                     );
                 })}
             </ul>
-            <Homepage />
         </div>
     );
 }
